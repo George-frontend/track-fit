@@ -1,7 +1,11 @@
+// import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
+
+import Landing from './pages/landing/Landing.tsx';
+
 function App() {
 
   return (
-    <h1>TrackFit</h1>
+    <Landing />
   )
 }
 
